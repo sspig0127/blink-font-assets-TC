@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Sarasa Mono TC";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://raw.githubusercontent.com/sspig0127/blink-font-assets-TC/main/fonts/SarasaMonoTC-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Sarasa Mono TC";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("https://raw.githubusercontent.com/sspig0127/blink-font-assets-TC/main/fonts/SarasaMonoTC-Bold.ttf")
+    format("truetype");
+}
