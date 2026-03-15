@@ -1,3 +1,16 @@
+/**
+ * sarasa-mono-tc-blink.css
+ *
+ * 用途：提供 Blink Shell (iOS) 載入 Sarasa Mono TC 繁體中文等寬字型的 @font-face 設定。
+ *
+ * 使用方式：
+ *   在 Blink Shell → config → Appearance → New Font 中，
+ *   貼入此檔案的 raw URL 並點 Import。
+ *
+ *   CSS raw URL:
+ *   https://raw.githubusercontent.com/sspig0127/blink-font-assets-TC/main/blink/sarasa-mono-tc-blink.css
+ */
+
 @font-face {
   font-family: "Sarasa Mono TC";
   font-style: normal;
@@ -15,3 +28,4 @@
   src: url("https://raw.githubusercontent.com/sspig0127/blink-font-assets-TC/main/fonts/SarasaMonoTC-Bold.ttf")
     format("truetype");
 }
+
