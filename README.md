@@ -4,8 +4,6 @@
 
 > **解決的問題：** Blink Shell 預設不含繁體中文等寬字型，透過此 repo 的 CSS `@font-face` 設定，讓 Blink Shell 能正確顯示中文字符。
 >
-> 本 repo 延伸自 [sspig0127-toolbox-wiki-notes](https://github.com/sspig0127/sspig0127-toolbox-wiki-notes) 的操作筆記。
-
 ## 預期結構
 
 ```text
